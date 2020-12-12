@@ -80,7 +80,7 @@ namespace AdventOfCode2020
 										Day3.Day3_Puzzle1();
 										break;
 									case DayPuzzleType.Puzzle2:
-										//Day3.Day3_Puzzle2();
+										Day3.Day3_Puzzle2();
 										break;
 								}
 								break;
