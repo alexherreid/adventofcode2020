@@ -104,7 +104,7 @@ namespace AdventOfCode2020
 										Day5.Day5_Puzzle1();
 										break;
 									case DayPuzzleType.Puzzle2:
-										//Day4.Day4_Puzzle2();
+										Day5.Day5_Puzzle2();
 										break;
 								}
 								break;
