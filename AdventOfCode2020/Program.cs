@@ -108,6 +108,18 @@ namespace AdventOfCode2020
 										break;
 								}
 								break;
+							case 6:
+								dpt = DayPuzzleSelector(dayNum);
+								switch (dpt)
+								{
+									case DayPuzzleType.Puzzle1:
+										Day6.Day6_Puzzle1();
+										break;
+									case DayPuzzleType.Puzzle2:
+										//Day6.Day6_Puzzle2();
+										break;
+								}
+								break;
 							default:
 								validDay = false;
 								break;
